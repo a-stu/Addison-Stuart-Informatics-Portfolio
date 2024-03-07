@@ -3,32 +3,32 @@ This is a repo to showcase some of the normalization work I have done as an info
 
 It contains the following samples:
 
-###Addison's Capstone Generative AI Query Development w Azure AI slide
+## Addison's Capstone Generative AI Query Development w Azure AI slide
 
 Test Text
 
-###Concept Map FHIR URI Workflow Map
+## Concept Map FHIR URI Workflow Map
 
 Test Text
 
-###Concept Map Source FHIR URI Query Diagram
+## Concept Map Source FHIR URI Query Diagram
 
 Test Text
 
-###FHIR URI Builder
+## FHIR URI Builder
 
 Test Text
 
-###FHIR URI in Concept Map Publish Screen
+## FHIR URI in Concept Map Publish Screen
 
 Test Text
 
-###LOINC API Property & Units
+## LOINC API Property & Units
 
 Test Text
 
-###Medication Automapping Logic
+## Medication Automapping Logic
 
 Test Text
 
-###Terminology Creation FHIR URI Workflow Map
+## Terminology Creation FHIR URI Workflow Map
