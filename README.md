@@ -5,12 +5,6 @@ These projects were carried out during the course of my Nursing Informatics prac
 
 ## Table of Contents
 
-### [Addison's Capstone Generative AI Query Development with Azure AI slides](https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/Addison's%20Capstone%20Generative%20AI%20Query%20Development%20w%20Azure%20AI%20slide.pptx)
-
-(You'll have to download this PowerPoint, as it's too big for github to display)
-
-This is a presentation I gave for the University of Utah Department of Bioinformatics. It demonstrates my process for Gen AI query formulation, and shows how I used it to retrieve a concept map's source FHIR URI from Ronin's clinical content database.
-
 ### [Concept Map FHIR URI Workflow Map](https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/Concept%20Map%20FHIR%20URI%20Workflow%20Map.png)
 
 This workflow map shows the problems that my project team was seeking to solve by populating a concept map's source FHIR URI in its publish screen.
@@ -33,6 +27,11 @@ A screenshot of the interface I built in Retool which allows Informaticists to b
 
 Notably, the FHIR Resource field queries Simplifier's API and retrieves a list of unique FHIR Resources in Ronin's FHIR model.
 
+### [Addison's Capstone Generative AI Query Development with Azure AI slides](https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/Addison's%20Capstone%20Generative%20AI%20Query%20Development%20w%20Azure%20AI%20slide.pptx)
+
+(You'll have to download this PowerPoint, as it's too big for github to display)
+
+This is a presentation I gave for the University of Utah Department of Bioinformatics. It demonstrates my process for Gen AI query formulation, and shows how I used it to retrieve a concept map's source FHIR URI from Ronin's clinical content database.
 
 ### [LOINC API Property & Units](https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/LOINC%20API%20Property%20%26%20Units.png)
 
