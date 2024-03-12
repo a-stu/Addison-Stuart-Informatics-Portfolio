@@ -37,7 +37,12 @@ This is a presentation I gave for the University of Utah Department of Bioinform
 
 A screenshot of a proof-of-concept OCI notebook in which I used LOINC FHIR APIs to retrieve the property and example units out of the very large JSON that the API returns when given a LOINC code. Property and example units were two of the most looked-up LOINC parts by Ronin informaticists to check the validity of LOINC codes called out in client source codes before mapping to them or not. Before Ronin closed down, my plan was to use this query to build API-assisted concept mapping CDS modules within the concept map tooling.
 
+https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/Improving%20Behavioral%20Health%20Screenings%20Presentation.pptx
+
 ### [Medication Automapping Logic](https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/Medication%20Automapping%20Logic.png)
 
 This is a screenshot of the logic I devised to automap client source medication codes to RxNorm. It leverages a combination of exact-match and probabilistic candidate vetting mappings via the RxNorm API, and algorithmic mapping for codes not mapped by the first two methods.
 
+### [Improving Behavioral Health Screenings Presentation](https://github.com/a-stu/Addison-Stuart-Informatics-Portfolio/blob/main/Improving%20Behavioral%20Health%20Screenings%20Presentation.pptx)
+
+This is a slide show demonstrating the methods and outcomes from a project I led at the Salt Lake City VA Hospital to improve the screening rates for depression, suicidality and substance use among outpatients. The presentation demonstrates my skills in data analysis, process design and team leadership.
